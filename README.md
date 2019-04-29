@@ -22,7 +22,6 @@ The three layers are designed to be drawn on top of a base layer of land, eg fro
 ```scss
 .land {
     fill: #eaeaea;
-    stroke: none;
 }
 
 .shadows {
